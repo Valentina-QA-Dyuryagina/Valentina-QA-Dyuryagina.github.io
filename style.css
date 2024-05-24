@@ -428,6 +428,11 @@ hr{
 	border-bottom: 1px solid #999;
 }
 
+.services_item--border2 {
+	border-bottom: 1px solid #999;
+}
+
+
 .services_title{
 	margin-bottom: 10px;
 
